@@ -7,7 +7,7 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 
 # Steps followed in this project
 
-# Data Collection and Preprocessing:
+**Data Collection and Preprocessing:**
 
 **Understanding Sentiment Data:**
 

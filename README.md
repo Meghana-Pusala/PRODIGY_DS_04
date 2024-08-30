@@ -5,9 +5,9 @@ PRODIGY INFOTECH DATASCIENCE INTERNSHIP TASK-04
 
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
-Steps followed in this project
+**Steps followed in this project**
 
-Data Collection and Preprocessing:
+**Data Collection and Preprocessing:**
 
 Understanding Sentiment Data:
 
@@ -17,7 +17,7 @@ Data Cleaning:
 
 Gained experience in preprocessing text data, which involves handling missing values and null values.
 
-Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 
 Data Visualization:
 
@@ -27,7 +27,7 @@ Pattern Recognition:
 
 Identified patterns in the sentiment data, such as trends over time.
 
-Modeling and Evaluation:
+**Modeling and Evaluation:**
 
 Model Building:
 
